@@ -11,18 +11,21 @@ where $A$ and $B$ are **Metric Operators** that scale the coordinate displacemen
 Information transfer and nexus formation occur strictly on the boundary where:
 $$|x_{Re}| = |x_{Im}| \implies d^2 \to 0$$
 
----
-
 ### II. Relativistic Invariance & Lorentz Mimicry
-To reproduce the results of Special Relativity within the 6-D metric, the operators $(A, B)$ for a frame moving at velocity $v$ along the $x$-axis are defined as:
-- **Real Operator ($A$):** $\gamma = (1 - v^2/c^2)^{-1/2}$
-- **Imaginary Operator ($B$):** $i \cdot \frac{v}{c} \gamma$
+To reproduce the results of Special Relativity within the 6-D metric, the operators (A, B) for a frame moving at velocity $v$ along the $x$-axis are defined as:
+
+- **Real Operator (A):** $\gamma = (1 - v^2/c^2)^{-1/2}$
+- **Imaginary Operator (B):** $i \cdot \frac{v}{c} \gamma$
 
 This results in the transformation of the **Trace Plane Coordinates**:
+
 $$x'_{Re} = \gamma(x_{Re} - \beta x_{Im})$$
+
 $$x'_{Im} = \gamma(x_{Im} - \beta x_{Re})$$
 
-This ensures that the speed of light $c$ (the $45^\circ$ null geodesic) remains constant for all observers.
+This ensures that the speed of light $c$ (the 45-degree null geodesic) remains constant for all observers.
+
+
 
 ---
 
@@ -131,5 +134,45 @@ In baryonic nexuses (e.g., Protons), multiple **Imaginary Filaments** are phase-
 
 **The Unified Tension Scale:**
 The **Strong Force** is the "High-Density" manifestation of the **Fundamental Restorative Force** ($a_0$), where the IR-boundary waves are blue-shifted by the local complex refractive index ($n^*$) of the nexus.
+
+---
+
+### XIV. The Master Nexus Equation & COSAT Action
+The fundamental state of a nexus is governed by the **Nexus Invariance Equation**, which balances local quantum uncertainty against the **COSAT Action Flux**:
+
+$$(\Delta x \Delta p) \cdot \left( 1 - \frac{2GM}{rc^2} \right) = \frac{\hbar}{2} + \int \mathcal{S}^* dt$$
+
+**The COSAT Governance:**
+1. **Action-Uncertainty Equivalence:** The "jitter" observed at the quantum level is the result of the nexus processing the **Complex Action ($S^*$)** arriving from the cosmic boundary.
+2. **Gravitational Compensation:** In high-mass environments, the increase in local momentum ($\Delta p$) is the physical "payment" required to offset the curvature of the 6-D metric.
+3. **The Stability Limit:** If the COSAT action flux exceeds the scattering capacity of the nexus, the phase-lock breaks, leading to **Scattering** or **Black Hole collapse** as the energy shifts entirely into the Imaginary ($x_{\text{Im}}$) domain.
+
+---
+
+### XVI. Global Curvature & Phase-Axis Rotation
+We model the cosmos as a 6-D hypersphere where the Real ($Q$) and Imaginary ($iM$) axes are subject to a **Geometric Phase Drift ($\alpha$)** over cosmological distances ($R$):
+
+$$\alpha = \kappa \cdot R$$
+
+**Phase-Leakage & Redshift:**
+The observed cosmological redshift is redefined as the **Rotation of Real Energy into the Imaginary Plane**. As light travels through the curved cosmos, a portion of its electromagnetic potential ($E_{\text{real}}$) is projected onto the gravitational axis ($iE_{\text{imag}}$), resulting in an apparent loss of frequency without a loss of total complex action.
+
+**The Geometric Origin of Dark Phenomena:**
+- **Dark Energy:** Manifests as the increased alignment of the **Mirror-Shell Repulsion** (Universe B) with the local Real-axis as $\alpha$ increases.
+- **Dark Matter:** Local galactic curvature induces a phase-rotation where background vacuum energy (Real) is "recruited" into the local gravitational potential (Imaginary).
+
+---
+
+### XVII. The Phase-Transition Boundary ($R_{\text{crit}}$)
+There exists a critical distance $R_{\text{crit}}$ where the 6-D Phase-Axis Rotation ($\alpha$) reaches the **Null Geodesic Interface** ($45^\circ$).
+
+**The Calculation:**
+Assuming the cosmic curvature $\kappa$ is tied to the Hubble Radius ($R_H$), the transition into the **Inner Imaginary Space** occurs at:
+$$R_{\text{crit}} = \frac{\pi/4}{\kappa} \approx 0.5 \cdot R_H \approx 6.9 \text{ billion light-years}$$
+
+**Physical Significance:**
+- **At $R < R_{\text{crit}}$:** The universe is "Real-dominant" (The Outer Region).
+- **At $R > R_{\text{crit}}$:** The universe becomes "Imaginary-dominant" (The Inner Region).
+- This distance marks the **Cosmological Turning Point** where the repulsion from the mirror-phase shell (Universe B) begins to dominate local galactic dynamics, explaining the observed onset of cosmic acceleration ($z \approx 0.5$ to $1$).
 
 ---
