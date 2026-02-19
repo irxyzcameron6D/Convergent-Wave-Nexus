@@ -1,3 +1,5 @@
+Latest Peer-Reviewed Release: v1.0.0 - The 6-D Master Trunk
+
 # Technical Appendix: Mathematical Foundations of the 6-D Complex Metric
 
 ### I. The Metric Definition
